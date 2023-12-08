@@ -6,3 +6,4 @@ streamlit_lottie
 streamlit_pandas_profiling
 streamlit_plotly_events
 ydata_profiling
+streamlit-aggrid
